@@ -1,0 +1,11 @@
+{
+  "name": "language-har",
+  "version": "0.1.0",
+  "description": "HAR file support in Atom",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/caleb531/language-har"
+}

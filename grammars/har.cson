@@ -1,0 +1,10 @@
+'name': 'HAR'
+'scopeName': 'source.json.har'
+'fileTypes': [
+  'har'
+]
+'patterns': [
+  {
+    'include': 'source.json'
+  }
+]
