@@ -3,7 +3,7 @@
 *Copyright 2018 Caleb Evans*  
 *Released under the MIT license*
 
-[![Build Status](https://travis-ci.org/caleb531/language-har.svg?branch=master)](https://travis-ci.org/caleb531/language-har)
+[![Build Status](https://travis-ci.com/caleb531/language-har.svg?branch=master)](https://travis-ci.com/caleb531/language-har)
 
 Adds syntax highlighting to HAR files in Atom.
 
